@@ -46,7 +46,7 @@ function fixupSiteStyles() {
         var style = document.createElement('style');
         style.textContent = `
         .assigned-label-transphobic { outline: 2px solid #991515 !important; }
-        .assigned-label-t-friendly { outline: 1px solid #77B91E !important; }
+        .assigned-label-t-friendly { outline: 1px solid #28b8bf !important; }
         `;
         document.head.appendChild(style);
     }
@@ -54,7 +54,7 @@ function fixupSiteStyles() {
         var style = document.createElement('style');
         style.textContent = `
         .assigned-label-transphobic { outline: 1px solid #991515 !important; }
-        .assigned-label-t-friendly { outline: 1px solid #77B91E !important; }
+        .assigned-label-t-friendly { outline: 1px solid #28b8bf !important; }
         
         `;
         document.head.appendChild(style);
