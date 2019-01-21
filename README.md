@@ -1,4 +1,4 @@
-# Shinigami Eyes
+# Thanatos Eyes
 
 A Chrome/Firefox addon that highlights transphobic/anti-LGBT and trans-friendly subreddits/users/facebook pages/groups with different colors.
 
